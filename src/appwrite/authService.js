@@ -1,5 +1,5 @@
 /* eslint-disable no-useless-catch */
-import config from '../conf/config.js';
+import config from '../config/config.js';
 import { Client, Account, ID } from "appwrite";
 
 
